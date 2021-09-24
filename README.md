@@ -2,7 +2,7 @@
 
 - 💻 I’m currently learning Android Development With Kotlin
 
- <a href="https://github.com/Sathish-Kumar-07/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathish-Kumar-07&layout=compact&theme=buefy&hide_border=true" /></a> 
+ <a href="https://github.com/Sathish-Kumar-07"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathish-Kumar-07&layout=compact&theme=buefy&hide_border=true" /></a> 
 
 ![](https://img.shields.io/badge/0S-WINDOWS|LINUX-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Android-Kotlin-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
